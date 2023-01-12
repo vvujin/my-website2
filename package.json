@@ -41,6 +41,7 @@
     "node": ">=16.14"
   },
   "repository": {
+    "name": "@vvujin/my-webite2",
     "type": "git",
     "url": "git+https://github.com/vvujin/my-webite2.git"
   }
