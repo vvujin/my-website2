@@ -39,5 +39,9 @@
   },
   "engines": {
     "node": ">=16.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvujin/my-webite2.git"
   }
 }
