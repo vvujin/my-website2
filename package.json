@@ -1,8 +1,5 @@
 {
   "name": "my-website-2",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/vvujin/my-website-2.git",
   "version": "0.0.0",
   "private": true,
   "scripts": {
