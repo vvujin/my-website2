@@ -1,6 +1,6 @@
 # EVENTUS
 
-Eventus je aplikacija za 
+vrlo cudno Eventus je aplikacija za 
 
 Za potrebe aplikacije podignuta je VM u Kosmaj klasteru. 
 
