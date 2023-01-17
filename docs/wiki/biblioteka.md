@@ -1,6 +1,8 @@
 # EVENTUS
 
-vrlo cudno Eventus je aplikacija za 
+17.01.2023 - 1. put - vrlo cudno 
+
+Eventus je aplikacija za 
 
 Za potrebe aplikacije podignuta je VM u Kosmaj klasteru. 
 
