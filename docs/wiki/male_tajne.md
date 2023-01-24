@@ -26,7 +26,7 @@ Ovakva greska se javlja kada se startuje xxx.scexe na 64bit linuxu
 	
 ## PuTTY sessions sa Vujinovog kompa
 
-Skinuti fajl [putty-sessions.zip](/lib/exe/fetch.php?media=putty-sessions.zip)
+Skinuti fajl 
 
 Otpakovati fajl a zatim duplim klikom na otpakovani fajl ubaciti u lokalni registry.
 
