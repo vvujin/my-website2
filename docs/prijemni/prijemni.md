@@ -1,5 +1,7 @@
 ## Prijemni ispit za upis
 
+a sad
+
 ovde bi trebalo da ispišemo sve aktivnosti koje obavlja Računski centar u vezi Prijemnog ispita za upisa na osnovne akademske studije, a bilo bi dobro da to uradimo i za Upis na Master
 
   1.Sajt upis.fon.bg.ac.rs
