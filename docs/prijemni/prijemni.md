@@ -3,7 +3,7 @@
 ovde bi trebalo da ispišemo sve aktivnosti koje obavlja Računski centar u vezi Prijemnog ispita za upisa na osnovne akademske studije, a bilo bi dobro da to uradimo i za Upis na Master
 
   1.Sajt upis.fon.bg.ac.rs
-1.[Prijava za probni prijemni](/doku.php?id=probni)  (Sajt probni-prijemni.fon.bg.ac.rs)
+1.Prijava za probni prijemni]  (Sajt probni-prijemni.fon.bg.ac.rs)
 1.Prijava na konkurs i Prijem dokumenatacije
 1.Prijemni ispit
 1.Unos testova i Bodovanje testova
